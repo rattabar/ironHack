@@ -15,7 +15,7 @@ public class Ex1 {
         coffeeType = in.nextLine();
 
         if (Objects.equals(coffeeType, "Espresso")) {
-            System.out.println(coffeeType + " is strong !");
+            System.out.println(coffeeType + " is stroooong !");
         }else if (Objects.equals(coffeeType, "Americano")) {
             System.out.println(coffeeType + " is a classic choice !");
         }else if (Objects.equals(coffeeType, "Latte")) {
